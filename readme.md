@@ -21,7 +21,7 @@ The receiver has the following timing diagram.
 The transmitter has the following timeing diagram. Note:
  - The `stb` strobe signal must be high for at least one `clk` edge. 
 
-![Transmitter Timing](readme/rx.png)
+![Transmitter Timing](readme/tx.png)
 
 ### Project Status/TODO
  * Compiles
